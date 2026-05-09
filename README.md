@@ -10,10 +10,9 @@
 > - [Part.03.**提供侵入、非法控制计算机信息系统程序、工具罪**](./cases/Part.03.提供侵入、非法控制计算机信息系统程序、工具罪.md)
 > - [Part.04.**破坏计算机信息系统罪**](./cases/Part.04.破坏计算机信息系统罪.md)
 
-### Todo
-著作权相关的内容。
+### 涉计算机类知识产权案件
 
-> - [Part.02.Todo（**todo**）](./todo/Part.02.A.todo.md)
+> - [Part.05.**侵犯著作权罪**](./cases/Part.05.侵犯著作权罪.md)
 
 ### 版权说明
 本书的版权协议为 [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)。
