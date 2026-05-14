@@ -14,7 +14,11 @@
 
 ### 涉计算机类知识产权案件
 
-> - [Part.15.**侵犯著作权罪**](./cases/Part.15.侵犯著作权罪.md)
+> - [Part.10.**侵犯著作权罪**](./cases/Part.10.侵犯著作权罪.md)
+
+### 其他相关罪名
+
+> - [Part.21.**侵犯公民个人信息罪**](./cases/Part.21.侵犯公民个人信息罪.md)
 
 ### 版权说明
 本书的版权协议为 [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)。
