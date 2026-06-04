@@ -19,6 +19,7 @@
 ### 其他相关罪名
 
 > - [Part.21.**侵犯公民个人信息罪**](./cases/Part.21.侵犯公民个人信息罪.md)
+> - [Part.31.**其他非典型罪名**](./cases/Part.31.其他非典型罪名.md)
 
 ### 版权说明
 本书的版权协议为 [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)。
